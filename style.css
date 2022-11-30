@@ -1,3 +1,7 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 .me1 {
     width: 25%;
     height: auto;
@@ -6,13 +10,21 @@
 
 h1 {
     color: #4f6367;
-    /* padding-left: 35%; */
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 p {
     color: #4f6367;
-    /* padding-left: 25%; */
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 50%;
 }
 
+a:hover {
+    color: #4f6367;
+}
+
+a:active {
+    color: #c7ee1b
+}
+
+a {
+    color:#b8d8d8;
+}
